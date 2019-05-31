@@ -4,9 +4,15 @@ The following steps and code are attributed to:
 + YG's 
 + https://github.com/alantian/ganshowcase
   
+  
+## Download the data
+
+Coming soon
 
 ## (Optional) crop images
 Follow along with cropping here: https://ellennickles.site/blog?category=Neural+Aesthetic
+
+
 
 
 ## (Optional) resize images from 128x128 to 64x64
