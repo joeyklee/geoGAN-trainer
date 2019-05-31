@@ -95,4 +95,6 @@ spell run --machine-type V100 \
 
 ## 6. convert the Generator file to a tfjs model
 
+```
 python dcgan_chainer_to_keras.py --arch dcgan64 --chainer_model_path out_chainer_dcgan64/Generator_95000.npz --keras_model_path out_chainer_dcgan64/Keras_Generator_95000.h5 --tfjs_model_path out_chainer_dcgan64/tfjs_Generator_95000
+```
